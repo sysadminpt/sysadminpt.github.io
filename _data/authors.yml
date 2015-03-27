@@ -1,20 +1,35 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo-2.jpg
-  twitter: extravagantman
+marco_garces:
+  name: Marco Garcês
+  web: marco.garces.cc
+  email: mgarces@sysadmin.pt
+  bio: "sysadmin @ BCI"
+  avatar: mgarces.jpg
+  twitter: mgarces
   google:
-    plus: BillyRick
+    plus: MarcoGarcês
 
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
+nuno_taborda:
+  name: Nuno Taborda
+  email: nunogt@gmail.com
+  bio: "Shits on fire, yo!"
+  avatar: nunogt.jpg
+  twitter: nunogt
   google:
-    plus: CorneliusFiddlebone
+    plus: NunoTaborda
+
+artur_martins:
+  name: Artur Martins
+  email: artur@sysadmin.pt
+  bio: "Systems Engineer at Storyful"
+  avatar: artur.jpg
+  twitter: arturmartins
+  google:
+    plus: ArturMartins1
+
+luis_flores:
+  name: Luís Flores
+  email: lflores@evo.pt
+  bio: "...started playing with Legos at the age of 4. Today he assembles infra-structures using open source bits."
+  avatar: flores.png
