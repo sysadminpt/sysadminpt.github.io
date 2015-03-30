@@ -1,25 +1,41 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
+title: About
+tags: [about, sysadmin, devops, portugal, ]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: atop.png
+  credit: sysadmin.pt
+  creditlink: http://sysadmin.pt
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+[**\#sysadmin.pt**](http://sysadmin.pt) is a network of open-source sysadmins and devops professionals, spread around the world, which
+in some way or another, have inter-changed knowledge among each other, and wish to do the same for the rest of
+the community, by sharing ideas, approaches, problems, solutions and opinions off this huge boiler plate which is
+the open-source.
 
-## Minimal Mistakes is all about:
+## \#sysadmin.pt is devoted to:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+* Maintain quality and original content, created by members of this network.
+* Compile best practices and tools, in the spirit of Open-Source, while keeping
+it unbiased (ex: no debian **VS** redhat or vim **VS** emacs wars): any way to work or
+accomplish something is valid, we are here to document this.
+* Welcome anyone who wants to contribute to the project, by accepting content which will
+be reviewed and posted if they follow the project spirit. New members are entitled to receive
+a free **@sysadmin.pt** email (hosted with google apps, limited free accounts), after submitting a few times quality content.
+* Expand networking of it's members and users, so in times of need, members can help each other out.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+## History:
+Most of the initial members of this project, come from Portugal, and most of them are living and working
+some other place in the world. Currently we have members in:
+
+* Portugal
+* UK
+* Ireland
+* Germany
+* Mozambique
+
+Even though both the original members are portuguese, and [TLD](http://en.wikipedia.org/wiki/Top-level_domain) is .pt, this space is open to anyone
+who wish to contribute, no matter which nationality, religion, gender, sexuality or music taste, provided
+they are willing to write in english (to keep a broader audience).
