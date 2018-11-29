@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/mgarces
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://sysadmin.pt
+  * I am mgarces (https://keybase.io/mgarces) on keybase.
+  * I have a public key ASDISoCAXYigkzCJPxEZWQvxDpZ0zTg2YUaFLqKaVHGlWQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200d7f0598804a57970467a43db12fbe1c64ddd466a614102e58618c20288e35b30a",
+      "host": "keybase.io",
+      "kid": "0120c84a80805d88a09330893f1119590bf10e9674cd38366146852ea29a5471a5590a",
+      "uid": "217b676cda70b48510e9246becea1219",
+      "username": "mgarces"
+    },
+    "merkle_root": {
+      "ctime": 1543488478,
+      "hash": "98cfb973dbdf8c4a8e92f8f88382c17e833b9406c24100f9940034cc24f840e21a32677f49699baf98286aa463165f2804b83cd4c2131ace0bb16d18d7f62c2d",
+      "hash_meta": "336fb8fc0ce4f388721b7923500f0974fc86b49a206c28f9c56d50a90d68f607",
+      "seqno": 4026528
+    },
+    "service": {
+      "entropy": "GvhAQs1MBGl+0nzJ2Gu4puFc",
+      "hostname": "sysadmin.pt",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.10.1"
+  },
+  "ctime": 1543488518,
+  "expire_in": 504576000,
+  "prev": "7eb9401f69ff558b17e39e3a02a33810452d6a99fda4b4b0689163016a947d8b",
+  "seqno": 29,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgyEqAgF2IoJMwiT8RGVkL8Q6WdM04NmFGhS6imlRxpVkKp3BheWxvYWTESpcCHcQgfrlAH2n/VYsX4546AqM4EEUtapn9pLSwaJFjAWqUfYvEIIgq9blQq6y9+pLG1GG7YC+Om0MmazTQ5nlvn0rnEzvlAgHCo3NpZ8RA2eQm8nCHDOXRBC/ae/p4kULkaqk6Q5MlVhR2U+eWUVk9tRg5WvnyoILkJsiUqXs+RwnwRKN1/LSJx4sSoJjhAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFrrRNJv2O28iHBygPs/OBHaMWRZXqsUOgezf9l3iIZ5o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mgarces
+
+==================================================================
